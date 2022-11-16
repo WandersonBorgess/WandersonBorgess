@@ -1,14 +1,16 @@
-## Olá! Eu sou o Wanderson Borges Rosa  👋
+## 👋 Heyyy! I'm Wanderson Borges Rosa
 
-- 🔭 Hoje trabalho com front-end
-- 🌱 Estudando Teste de unidade e SOLID
+## About me:
+- Wanderson Borges Rosa, 23 years
+- Currently studying Automatized tests
 
 <div align="center">
   <a href="https://github.com/WandersonBorgess">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WandersonBorgess&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WandersonBorgess&layout=compact&langs_count=7&theme=dark"/>
 </div>
-
+  
+## My skills:
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
