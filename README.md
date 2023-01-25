@@ -1,8 +1,7 @@
 ## 👋 Heyyy! I'm Wanderson Borges Rosa
 
 ## About me:
-- Wanderson Borges Rosa, 23 years
-- Currently studying Automatized tests
+- Wanderson Borges Rosa
 
 <div align="center">
   <a href="https://github.com/WandersonBorgess">
