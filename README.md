@@ -1,7 +1,7 @@
-## 👋 Heyyy! I'm Wanderson Borges Rosa
+## I'm Wanderson
 
 ## About me:
-- Wanderson Borges Rosa
+- Wanderson
 
 <div align="center">
   <a href="https://github.com/WandersonBorgess">
