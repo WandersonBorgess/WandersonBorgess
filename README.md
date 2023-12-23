@@ -1,7 +1,6 @@
 ## I'm Wanderson
 
-## About me:
-- Wanderson
+## About:
 
 <div align="center">
   <a href="https://github.com/WandersonBorgess">
