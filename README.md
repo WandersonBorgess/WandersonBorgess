@@ -1,5 +1,3 @@
-## I'm Wanderson
-
 ## About:
 
 <div align="center">
